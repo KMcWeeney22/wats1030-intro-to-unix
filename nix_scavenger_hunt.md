@@ -68,7 +68,7 @@ and then clone it to your development environment.
   --- cabox Jun 30 06:10 (54.186.244.104)
 
 * Discover who else is on your system with the `who` command. *Are any other users using your system? If so, list them here:*
-  --- cabox pts/0 
+  --- cabox pts/0 nobody else is on the system
 
 * How long has your system been running? Use `uptime` to see, and *paste the result here:*
   --- 06:43:44 up 48 min,  1 user,  load average: 0.00, 0.00, 0.00
